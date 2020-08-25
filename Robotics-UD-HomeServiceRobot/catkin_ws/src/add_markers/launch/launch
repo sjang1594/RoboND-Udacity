@@ -1,0 +1,7 @@
+<launch>
+  <!-- Declare arg to be passed in -->
+  <arg name="rviz_path" />
+
+  <!-- Launch node -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rviz_path)"/>
+</launch>
