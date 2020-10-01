@@ -1,3 +1,5 @@
 ## Project Name : WhereAmI
 
-![Localization](https://github.com/sjang1594/RoboND-Udacity/tree/master/Robotics-UD-WhereAmI/media/video.gif)
+<p align="center">
+  <img src="../media/video.gif" width="400" height="350" >
+</p>
