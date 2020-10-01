@@ -1,5 +1,4 @@
 ## Project Name : WhereAmI
 
-<p align="center">
-  <img src="../media/video.gif" width="400" height="350" >
-</p>
+
+![Localization](https://media.giphy.com/media/LAdhNus2k4VnBU3OQ9/giphy.gif)
